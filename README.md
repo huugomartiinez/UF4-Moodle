@@ -13,7 +13,7 @@ b) Canvia el nom del teu lloc (tant llarg com curt) i fes que la pàgina princip
 
 c) Comprova que la franja horària del teu lloc sigui la correcta. Això es pot fer anant a l'opció **Administració del lloc** > **Ubicació** > **Paràmetres**.
 
-![Foto](/UF4-Moodle/hora.png)
+![Foto](hora.png)
 
 NOTA: Aquesta configuració és important, per exemple, per les hores límit d'entregues d'exercicis
 d) Canvia l'idioma del teu lloc. Això es pot fer anant a l'opció **Administració del lloc** > **Idioma** > **Paràmetres** i tenint en compte tant el checkbox **Detecció automàtica de l'idioma** com el desplegable **Idioma per defecte**.
