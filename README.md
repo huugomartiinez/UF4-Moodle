@@ -29,3 +29,28 @@ e) Canvia la política de contrasenyes de manera que els usuaris que es creiïn 
 
 2. Crea els següents cursos: un curs anomenat A (sense categoria) que estigui format per 3 temes i un altre anomenat B (també sense categoria) que estigui format per 5 temes. Tot això ho pots fer des de Administració del lloc->Gestiona cursos i categories o també des del quadre **Navegació** anant a **Cursos** > **Afegeix curs**
 
+![Foto](curso%20a.png)
+![Foto](CURSO%20B.png)
+
+3. Vés a algun dels cursos creats al punt anterior (simplement seleccionant-lo dins del quadre **Navegació**) i fes que contingui en algun del seus temes algun tipus de material (un document PDF, per exemple), canvia el títol d'algun tema i, en general, investiga les possibilitats que et dóna el botó **Activar edició** en un curs.
+
+![Foto](josecamu%C3%B1ez.png)
+
+NOTA: Aquestes possibilitats no les estudiarem a fons perquè són una tasca més pròpia del professor que no pas de l'administrador del Moodle, però sempre va bé tenir-ne alguna idea.
+
+4. Creació d’usuaris i alumnes.
+
+a) Crea manualment un usuari anomenat **Bob** que ha de fer servir el **mètode d'autenticació manual**. Això es pot fer des de **Administració del lloc** > **Usuaris** > **Comptes** > **Afegeix un usuari**
+
+![Foto](bob.png)
+
+b) Genera deu alumnes que ho seran dels dos cursos A i B . Fes servir un arxiu CSV per realitzar aquesta creació en bloc. Vés a **Administració del lloc** > **Usuaris** > **Comptes** > **Carrega usuaris** i segueix els passos que et marca.
+
+![Foto](csv)
+![Foto](archivousuarios.png)
+![Foto](usuarioscreados.png)
+
+NOTA: Per saber el contingut que hauria de tenir aquest fitxer, consulteu més abaix a la secció **Usuaris**.
+
+c) Elimina dos dels deu alumnes creats a l'apartat anterior fent servir l'opció **Administració del lloc** > **Usuaris** > **Accions amb usuaris en bloc**
+
