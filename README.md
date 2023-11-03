@@ -4,12 +4,12 @@
 
 a) Canvia la teva direcció de correu electrònic i també la teva contrasenya per una altra. Afegeix-te a més un avatar. Tot això es pot fer anant al teu perfil (opció que apareix sota el teu nom que es veu a la part superior dreta de la finestra del Moodle) i clicant sobre l'enllaç **Editar** (o també anant a l'opció **Preferències**, situada al mateix lloc).
 
-![Foto](/UF4-Moodle/Captura%20de%20pantalla%20de%202023-10-31%2013-19-02.png)
+![Foto](UF4-Moodle/Captura%20de%20pantalla%20de%202023-10-31%2013-19-02.png)
 
 b) Canvia el nom del teu lloc (tant llarg com curt) i fes que la pàgina principal no mostri res pels usuaris que no estiguin autentificats. Això es pot fer anant a l'opció **Administració del lloc** > **Primera plana** > **Paràmetres**
 
-![](/UF4-Moodle/Captura%20de%20pantalla%20de%202023-10-30%2014-15-21.png)
-![](/UF4-Moodle/Captura%20de%20pantalla%20de%202023-10-30%2014-16-22.png)
+![Foto](/UF4-Moodle/Captura%20de%20pantalla%20de%202023-10-30%2014-15-21.png)
+![Foto](/UF4-Moodle/Captura%20de%20pantalla%20de%202023-10-30%2014-16-22.png)
 
 c) Comprova que la franja horària del teu lloc sigui la correcta. Això es pot fer anant a l'opció **Administració del lloc** > **Ubicació** > **Paràmetres**.
 
