@@ -46,11 +46,30 @@ a) Crea manualment un usuari anomenat **Bob** que ha de fer servir el **mètode 
 
 b) Genera deu alumnes que ho seran dels dos cursos A i B . Fes servir un arxiu CSV per realitzar aquesta creació en bloc. Vés a **Administració del lloc** > **Usuaris** > **Comptes** > **Carrega usuaris** i segueix els passos que et marca.
 
-![Foto](csv)
+![Codigo para los usuarios](csv)
+
 ![Foto](archivousuarios.png)
 ![Foto](usuarioscreados.png)
 
 NOTA: Per saber el contingut que hauria de tenir aquest fitxer, consulteu més abaix a la secció **Usuaris**.
 
 c) Elimina dos dels deu alumnes creats a l'apartat anterior fent servir l'opció **Administració del lloc** > **Usuaris** > **Accions amb usuaris en bloc**
+
+![Foto](eliminarusuario1.png)
+![Foto](eliminarusuario2.png)
+
+5. Ara matricula aquests usuaris als diferents cursos.
+
+a) Fes que al curs A no hi hagi possibilitat d'inscripció (és a dir, que només es permeti l'accés de visitant de manera que el curs sigui totalment públic sense control d'usuaris -ni alumnes ni professors-). D'altra banda, fes que al curs B es necessiti registre manual d'usuaris (és a dir, que sigui l'administrador -tu- qui matriculi cada usuari al curs, ja sigui com a professor o com a alumne). Tot això ho pots fer des de **Administració del curs** > **Ususaris** > **Mètodes d'inscripció**. Si no surt algun mètode d'inscripció disponible, has d'activar-lo a: **Administració de lloc** > **Connectors** > **Autenticació** > **Gestió de l'autenticació**
+
+![Foto](metododeinscripcion.png)
+![Foto](metododeinscripcionB.png)
+
+b) Assigna com a professor del curs B l'usuari "Bob" i com a alumnes a tots els que fas afegir des de l'arxiu CSV Tot això ho pots fer anant a **Administració del curs** > **Usuaris inscrits** > **Inscriure**.
+
+![Foto](bobprofe.png)
+
+c) Comprova que efectivament, el contingut del curs A (afegit per l'administrador del sistema -és a dir, tu- estigui disponible públicament i que per accedir al curs B s'hagi d'iniciar sessió amb un usuari registrat (alumne o professor)
+
+![Foto]()
 
