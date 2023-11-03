@@ -8,8 +8,8 @@ a) Canvia la teva direcció de correu electrònic i també la teva contrasenya p
 
 b) Canvia el nom del teu lloc (tant llarg com curt) i fes que la pàgina principal no mostri res pels usuaris que no estiguin autentificats. Això es pot fer anant a l'opció **Administració del lloc** > **Primera plana** > **Paràmetres**
 
-![Foto](/UF4-Moodle/Captura%20de%20pantalla%20de%202023-10-30%2014-15-21.png)
-![Foto](/UF4-Moodle/Captura%20de%20pantalla%20de%202023-10-30%2014-16-22.png)
+![](/UF4-Moodle/Captura%20de%20pantalla%20de%202023-10-30%2014-15-21.png)
+![](/UF4-Moodle/Captura%20de%20pantalla%20de%202023-10-30%2014-16-22.png)
 
 c) Comprova que la franja horària del teu lloc sigui la correcta. Això es pot fer anant a l'opció **Administració del lloc** > **Ubicació** > **Paràmetres**.
 
